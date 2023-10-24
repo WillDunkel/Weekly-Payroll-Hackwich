@@ -70,6 +70,7 @@ struct CustomText: View {
     }
 }
                 
+//WWWWW   kjjnmk  kkbkjl jj
             
     
 
